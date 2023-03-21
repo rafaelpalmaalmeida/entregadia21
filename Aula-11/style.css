@@ -1,0 +1,16 @@
+.hover .hover__titulo:hover {
+    color: brown;
+}
+
+.active .active__titulo:active {
+    color: red;
+}
+
+.visited .visited__titulo:visited {
+    color: red;
+
+}
+
+.lista1 .lista__fruta:first-child {
+    
+}

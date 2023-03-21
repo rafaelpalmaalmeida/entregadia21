@@ -1,0 +1,47 @@
+.saude {
+    background-color: blue;
+    border: solid;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.politica {
+    background-color: blue;
+    border: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.novela {
+    background-color: blue;
+    border: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.signo {
+    background-color: blue;
+    border: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.economia {
+    background-color: blue;
+    border: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.tempo {
+    background-color: blue;
+    border: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.mais-lidas {
+    list-style: disc;
+    
+}

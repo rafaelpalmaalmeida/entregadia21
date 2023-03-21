@@ -1,0 +1,17 @@
+.desafio1 {
+    color: red;
+}
+
+#lista1 {
+    color: green;
+}
+
+#lista2 {
+    color: blue;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
